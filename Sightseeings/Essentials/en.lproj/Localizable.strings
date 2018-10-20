@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Sightseeings
+
+  Created by Didar Naurzbayev on 10/16/18.
+  Copyright © 2018 Didar Naurzbayev. All rights reserved.
+*/
+"About App" = "About App";
+"Maps" = "Maps";
+"Favourites" = "Favourites";
+"Favourites2" = "Favourites2";
+
+"Description 1" = "The Application for viewing sightseeings in Hanolulu";
+"Description 2" = "Find places in the map";
+"Description 3" = "Save to favourites list your places";
+"Description 4" = "View your favourites";
+
+"done" = "done";
+"next" = "next";
+"save" = "save";
+"cancel" = "cancel";
+"search" = "search";
+"addedFav" = "Added to Favorites";
+"saved" = "Saved";
